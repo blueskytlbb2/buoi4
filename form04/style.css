@@ -1,0 +1,37 @@
+*{
+    font-family: Arial;
+    font-size: 11pt;
+}
+th{
+    font-size: 16pt;
+	background:#79CDCD;
+	color: #ffffff;
+	padding: 5px;
+}
+td {
+	padding: 5px;
+}
+table {
+	border-collapse: collapse;
+	border: 1px solid #6959CD;
+	background: #C6E2FF
+	repeat-x left bottom;
+}
+button {
+	padding: 5px;
+	border: 1px solid #228b22;
+	background: #79CDCD;
+	color: #ffffff;
+}
+select{
+	border: 1px dotted #483D8B;
+	background: #97FFFF
+}
+textarea {
+	border: 1px dotted #483D8B;
+	background: #97FFFF
+}
+input {
+	border: 1px dotted #483D8B;
+	background: #97FFFF
+}
